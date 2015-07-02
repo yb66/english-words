@@ -17,4 +17,4 @@ No idea why infochimps put the word list inside an excel (.xls) file.
 I pulled out the words into a simple new-line-delimited text file.
 Which is more useful when building apps or importing into databases etc.
 
-<strike>Copyright still belongs to them.<strike> This is a list of words, there is no *original work* here, just effort, and as such, has no copyright. Use it wisely!
+<strike>Copyright still belongs to them.</strike> This is a list of words, there is no *original work* here, just effort, and as such, has no copyright. Use it wisely!
